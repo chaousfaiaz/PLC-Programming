@@ -99,4 +99,4 @@ Distributed under the [MIT License](https://mit-license.org/).
 
 ## Contact
 
-Dario Arzaba - dario.arzaba@gmail.com
+MD FAIAZ - preusvicinity12@gmail.com

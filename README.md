@@ -14,7 +14,7 @@
 1. Clone the repo (Around 200MB as of 2023)
    ```sh
    git clone https://github.com/chaousfaiaz/PLC-Programming.git
-   cd PLCProgramming
+   cd PLC-Programming
    ```
 
 ***
